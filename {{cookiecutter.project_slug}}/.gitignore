@@ -1,0 +1,39 @@
+# Data — lives in GCS not Git
+data/*.csv
+data/*.zip
+data/*.gz
+data/*.parquet
+
+# GCP credentials — never commit
+*.json
+service-account-key.json
+kaggle.json
+.env
+secrets/
+
+# Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Virtual env
+*-env/
+venv/
+.venv/
+
+# dbt
+*/target/
+*/logs/
+*/.user.yml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac
+.DS_Store

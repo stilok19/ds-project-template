@@ -1,0 +1,13 @@
+{
+    "project_name": "my-new-project",
+    "project_slug": "my_new_project",
+    "project_description": "A data science project",
+    "author_name": "May Tilokruangchai",
+    "github_username": "stilok19",
+    "gcp_project_id": "my-new-project",
+    "gcs_bucket_name": "my-new-project-raw-stilok19",
+    "bq_dataset_name": "my_new_project",
+    "gcp_region": "us-central1",
+    "python_version": "3.11",
+    "industry": ["ecommerce", "retail", "research", "fintech", "healthcare"]
+}
