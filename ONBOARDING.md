@@ -19,11 +19,11 @@ Make sure you have all of these installed and ready before starting a new projec
 | Cookiecutter | Generate project from template | `cookiecutter --version` in terminal |
 | Kaggle CLI | Download datasets | `kaggle --version` in terminal |
 
-> 💡 **What is a terminal?** In VS Code press **Ctrl + `** (backtick key, top left of keyboard) to open a terminal. This is where you type commands.
+> **What is a terminal?** In VS Code press **Ctrl + `** (backtick key, top left of keyboard) to open a terminal. This is where you type commands.
 
 ---
 
-## 🗺️ Overview — What You Will Do
+## Overview — What You Will Do
 
 Here is the full picture of what you will set up for every new project:
 
@@ -707,7 +707,7 @@ Go through every item before you start coding:
 
 ---
 
-## 🔄 Your Daily Workflow
+## Your Daily Workflow
 
 Every day when you sit down to work:
 
@@ -872,7 +872,7 @@ It is always faster to ask a senior team member than to spend 2 hours debugging 
 
 ---
 
-## 📞 Need Help?
+## Need Help?
 
 Contact the data team:
 
