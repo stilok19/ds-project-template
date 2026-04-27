@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# cookiecutter output (never commit generated projects)
+# only commit the template itself
