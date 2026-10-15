@@ -17,7 +17,6 @@ Make sure you have all of these installed and ready before starting a new projec
 | gcloud CLI | Talk to Google Cloud | `gcloud --version` in terminal |
 | dbt | Transform data in BigQuery | `dbt --version` in terminal |
 | Cookiecutter | Generate project from template | `cookiecutter --version` in terminal |
-| Kaggle CLI | Download datasets | `kaggle --version` in terminal |
 
 > **What is a terminal?** In VS Code press **Ctrl + `** (backtick key, top left of keyboard) to open a terminal. This is where you type commands.
 
