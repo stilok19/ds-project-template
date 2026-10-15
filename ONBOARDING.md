@@ -19,6 +19,15 @@ Make sure you have all of these installed and ready before starting a new projec
 | Cookiecutter | Generate project from template | `cookiecutter --version` in terminal |
 
 > **What is a terminal?** In VS Code press **Ctrl + `** (backtick key, top left of keyboard) to open a terminal. This is where you type commands.
+>
+>1. In VS Code, press Cmd + Shift + P.
+>2. Type Shell Command: Install 'code' command in PATH and press Enter.
+>3. Open a new terminal (the trash icon, then Ctrl + `) and test it: 
+> install cookiecutter
+>    brew install pipx
+     pipx ensurepath
+     pipx install cookiecutter
+> 
 
 ---
 
